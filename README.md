@@ -51,4 +51,4 @@ In this project i have created a Movies website for CRUD operation in React.js. 
 
    # Screenshots of the project
 
-   ![Movie website]()
+   ![Movie website](https://github.com/abdulwahid-csit/Movies-Website-React/blob/main/Screenshot%202024-04-28%20013048.png)
